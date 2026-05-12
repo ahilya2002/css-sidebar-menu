@@ -1,5 +1,4 @@
-# css-sidebar-menu
-A responsive sidebar menu using pure HTML &amp; CSS
+
 # CSS Sidebar Menu
 
 A responsive sidebar navigation menu built with pure HTML and CSS — no JavaScript required.
